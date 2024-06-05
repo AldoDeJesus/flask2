@@ -19,7 +19,7 @@ def home():
           </head>
           <body>
             <h1>Hola mundo</h1>
-            <button onclick="mostrarMensaje()">Mostrar Mensaje</button>
+            <button onclick="mostrarMensaje()">Mostrar Nombre y grupo</button>
             <p id="mensaje"></p>
             <img id="imagen" src="/static/imagen2.jpg" alt="Imagen de ejemplo">
             <script>
